@@ -1,1 +1,3 @@
 # Pandas-Challenge
+For this challenge we were given a data set on students grades and the school they attend. With this dataset we needed to break down the data into categories revolving around school types, school names, school student sizes, school budgets, school budgets per student, average student grades for mathematics and reading and the percent average of students who pass math and reading. Then analyze each of these categories to gain the most information about which schools were succeeding the most, compared to which were succeeding the least, with regards to their students academic performance. Once analyzed we needed to provide the majoring factors that displayed their disparities and how they are can be scene when looking at the organized data.
+
